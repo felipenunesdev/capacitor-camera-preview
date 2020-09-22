@@ -1,0 +1,10 @@
+html, body, .ion-app, .ion-content {
+  background-color: transparent;
+}
+:host{
+  background-color: transparent;
+}
+.preview{
+  position: absolute;
+  top: 0;
+}
